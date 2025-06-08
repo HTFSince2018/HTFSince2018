@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studying on Chongqing university
+- 🌱 I’m currently learning Python, JAVA, React, Algorithm
+
+
 <!--
 **HTFSince2018/HTFSince2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
